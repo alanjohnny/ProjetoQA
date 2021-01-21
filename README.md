@@ -1,0 +1,2 @@
+# ProjetoQA
+DESAFIO - QA Automação
